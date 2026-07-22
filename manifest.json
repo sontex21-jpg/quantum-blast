@@ -1,0 +1,9 @@
+{
+  "name": "Quantum Blast",
+  "short_name": "Quantum Blast",
+  "start_url": "./quantum-blast-game-3.html",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#07030f",
+  "theme_color": "#9b3dff"
+}
